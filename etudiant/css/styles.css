@@ -1,9 +1,17 @@
 /* Exercice 01 */
-
+nav li:nth-child(2) {
+  margin: 0px 20px;
+ }
 /* Exercice 02 */
-
+  .exercice02 blockquote::first-letter {
+    color: red;
+    font-size: 3.125rem;
+  }
 /* Exercice 03 */
-
+  .exercice03 blockquote::first-line {
+    color: red;
+    font-weight: 700;
+  }
 /* Exercice 04 */
 
 /* Exercice 05 */
