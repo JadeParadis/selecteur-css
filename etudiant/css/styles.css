@@ -82,7 +82,9 @@ nav a:hover {
     color: red;
   }
 /* Exercice 18 */
-
+header h1 .char:last-child {
+  color: #640101;
+}
 /*-------------------------------------------
 -
 -   Ne rien modifier dans le CSS qui suit
